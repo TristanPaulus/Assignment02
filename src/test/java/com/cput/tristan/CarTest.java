@@ -1,7 +1,11 @@
+//N.B!!!!!
+
+
+//The Car and CarTest classes apply to Question 1 ONLY
+
 package com.cput.tristan;
 
 import junit.framework.TestCase;
-import java.util.Timer;
 
 /**
  * Created by Tristan on 2017/03/18.

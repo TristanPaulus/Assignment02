@@ -1,3 +1,8 @@
+//N.B!!!!!
+
+
+//The Car and CarTest classes apply to Question 1 ONLY
+
 package com.cput.tristan;
 
 public class Car
